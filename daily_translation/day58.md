@@ -2,11 +2,11 @@
 
 #### 题目
 
->1.它们被不断地推迟到清单的末尾。
->2. 把办公桌上的外卖盒子和空饮料瓶统统丢掉。
->3. 好好整理下，收据和报表最好放在一起。
->4. 也许是时候更新下简历找一份新工作了。
->5. As you go through your papers, take note of your spending habits over the last year.
+1. 它们被不断地推迟到清单的末尾。
+2. 把办公桌上的外卖盒子和空饮料瓶统统丢掉。
+3. 好好整理下，收据和报表最好放在一起。
+4. 也许是时候更新下简历找一份新工作了。
+5. As you go through your papers, take note of your spending habits over the last year.
 
 #### 我的答案
 
